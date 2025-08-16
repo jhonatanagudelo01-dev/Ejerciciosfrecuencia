@@ -1,5 +1,4 @@
 import pandas as pd
-print ("Hola mundo")
 # Lista de notas
 notas = [75, 82, 90, 68, 75, 88, 92, 78, 85, 75]
 
